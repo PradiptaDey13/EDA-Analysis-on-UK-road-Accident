@@ -81,10 +81,14 @@ which can impact model performance and interpretation.
 # Machine Learning Model
 ![Capturrre](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/3f918de1-9bde-4952-8474-850f6edd6282)
 
+**Conclusion** This line of code is for predicting accedient severity based on the some specific factors, so that we can train and test our model accordingly.
+
 # DashBoard Creation
 Here is the main dashboard which is dynamic in nature and the slicer added
 
 ![Dashboard_image](https://github.com/Ashraf7474/EDA-Analysis-on-UK-road-Accident/assets/131772000/7c650e0c-7798-4f8b-aaad-f20a24a8f019)
+
+**Conclusion** This Dynamic Dashboard which has created in Excel majorly having two filters - Accedient Date, Urban or Rular areas through which we can done the analysis.
 
 # Insights
 1. The number of Slight  cases  is very high approx. 85.5%  and Fatal approx. 1.3%
